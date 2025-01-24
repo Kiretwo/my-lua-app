@@ -1,4 +1,3 @@
--- hello.lua
 local _M = {}
 
 function _M.greet()
